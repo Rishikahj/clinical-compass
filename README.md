@@ -4,7 +4,7 @@
 Hospitals waste crores due to operational inefficiency — patients wait too long, wrong departments get overcrowded, beds are underutilized, and high readmission rates cost hospitals money. This project builds a complete Hospital Operations Intelligence System that identifies bottlenecks and gives actionable recommendations.
 
 ## 🔗 Live Dashboard
-[👉 Click here to view Power BI Dashboard](https://app.powerbi.com/links/B1ql4ADIRW?ctid=bf93bb5e-ecf0-4e3d-be0e-79b5cc527a48&pbi_source=linkShare)
+[👉 Click here to view Power BI Dashboard](https://app.powerbi.com/links/B1ql4ADIRW?ctid=bf93bb5e-ecf0-4e3d-be0e-79b5cc527a48&pbi_source=linkShare&bookmarkGuid=c770e778-2584-447d-bde0-7efc0ef76aff)
 
 ## 📊 Project Type
 Funnel Analysis + Operational Intelligence — End-to-end hospital operations analytics
